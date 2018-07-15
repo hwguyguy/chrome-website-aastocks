@@ -1,0 +1,7 @@
+.header_icon_map_menu, .menu2_title, #topPanel-banner {
+	display: none !important;
+}
+
+.menu2 {
+	padding-top: 10px !important;
+}

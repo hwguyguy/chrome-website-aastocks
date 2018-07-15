@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "W AASTOCKS",
+	"description": "aastocks",
+	"version": "1.0.0",
+	"content_scripts": [
+		{
+			"matches": [
+				"http://www.aastocks.com/",
+				"http://www.aastocks.com/*"
+			],
+			"css": ["aastocks.css"]
+		}
+	]
+}
